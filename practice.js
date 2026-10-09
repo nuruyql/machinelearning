@@ -21,11 +21,12 @@
 
 //THIRD TASK
 
-let a=4 ;
+// let a=4 ;
 
 
-const b = 3;
-a= 5;
+// const b = 3;
+// a= 5;
 // b=4;
 
 
+console.log("12" * 2)
